@@ -5,12 +5,11 @@
 }
 div.image{
     width: 500%;
-    margin: 3% 2%;
     position: relative;
     height: 600%;
 }
 img{
-    width: 100%;
+    width: 600%;
 }
 p{
     position: absolute;
